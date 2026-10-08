@@ -30,3 +30,13 @@ Sortech-Infra는 AI 기반 업무 자동화 소프트웨어를 개발합니다.
 **[SAPA 저장소 →](https://github.com/Sortech-Infra/sapa)**
 
 SAPA는 현재 비공개 저장소로 관리되며, 저장소 열람에는 접근 권한이 필요합니다.
+
+## 함께 만드는 사람들
+
+소티를 닮은 캐릭터로 Sortech-Infra의 멤버들을 소개합니다.
+
+| 김주란 | 차지현 | 심관혁 |
+| :---: | :---: | :---: |
+| <img src="assets/members/ranna0323.png" width="160" alt="단발머리와 둥근 안경을 쓴 김주란 님의 소티 스타일 캐릭터" /> | <img src="assets/members/chzeese1002-bot.png" width="160" alt="긴 흑발 생머리에 둥근 안경을 쓰고 활짝 웃는 차지현 님의 소티 스타일 캐릭터" /> | <img src="assets/members/gwan-son.png" width="160" alt="짧은 머리에 안경 없이 미소 짓는 심관혁 님의 소티 스타일 캐릭터" /> |
+| 파트장 | 사원 | 사원 |
+| [@Ranna0323](https://github.com/Ranna0323) | [@chzeese1002-bot](https://github.com/chzeese1002-bot) | [@Gwan-Son](https://github.com/Gwan-Son) |
