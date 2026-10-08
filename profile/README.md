@@ -37,6 +37,6 @@ SAPA는 현재 비공개 저장소로 관리되며, 저장소 열람에는 접�
 
 | 김주란 | 차지현 | 심관혁 |
 | :---: | :---: | :---: |
-| <img src="assets/members/ranna0323.png" width="160" alt="흑발 단발에 로즈골드 안경과 차콜 재킷의 세미정장을 착용하고 입을 열어 웃는 김주란 님의 소티 스타일 캐릭터" /> | <img src="assets/members/chzeese1002-bot.png" width="160" alt="5대5 가르마의 긴 흑발 생머리에 둥근 안경과 라벤더색 맨투맨을 착용하고 활짝 웃는 차지현 님의 소티 스타일 캐릭터" /> | <img src="assets/members/gwan-son.png" width="160" alt="짧은 머리에 안경 없이 미소 짓는 심관혁 님의 소티 스타일 캐릭터" /> |
+| <img src="assets/members/ranna0323.png" width="160" alt="흑발 단발에 로즈골드 안경과 코랄색 이너·차콜 재킷의 세미정장을 착용하고 입을 열어 웃는 김주란 님의 소티 스타일 캐릭터" /> | <img src="assets/members/chzeese1002-bot.png" width="160" alt="5대5 가르마의 긴 흑발 생머리에 둥근 안경과 하늘색 맨투맨을 착용하고 활짝 웃는 차지현 님의 소티 스타일 캐릭터" /> | <img src="assets/members/gwan-son.png" width="160" alt="짧은 머리에 남색 후드티를 입고 안경 없이 미소 짓는 심관혁 님의 소티 스타일 캐릭터" /> |
 | 파트장 | 사원 | 사원 |
 | [@Ranna0323](https://github.com/Ranna0323) | [@chzeese1002-bot](https://github.com/chzeese1002-bot) | [@Gwan-Son](https://github.com/Gwan-Son) |
